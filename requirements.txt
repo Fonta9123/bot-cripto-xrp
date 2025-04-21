@@ -3,3 +3,7 @@ requests
 pandas
 numpy
 python-kucoin
+<<<<<<< HEAD
+=======
+
+>>>>>>> 06c20f6 (Agregar archivo requirements.txt con dependencias necesarias)
