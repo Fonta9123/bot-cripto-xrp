@@ -1,3 +1,5 @@
 ccxt
+requests
 pandas
-ta
+numpy
+python-kucoin
